@@ -19,3 +19,5 @@ yarn-error.log
 /.idea
 /.vscode
 mysql-data/mysql.sock
+mysql-data/ca-key.pem
+mysql-data/
