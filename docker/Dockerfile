@@ -3,7 +3,7 @@ FROM composer:lts as composerbuild
 
 FROM php:8.2.2-apache
 
-LABEL maintainer="gopibabu s"
+LABEL maintainer="Nehalika"
 
 ENV COMPOSER_ALLOW_SUPERUSER 1
 ENV COMPOSER_PROCESS_TIMEOUT 4000
